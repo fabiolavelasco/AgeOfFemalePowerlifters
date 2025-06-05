@@ -1,7 +1,7 @@
 # 🏋️‍♀️ Peak Performance Age in Female Powerlifting
 
 ## 📊 Project Overview
-This project explores the age at which female powerlifters tend to reach peak performance, using publicly available data from the [Open Powerlifting database](https://www.openpowerlifting.org/). By analyzing both **DOTS** and **Total** as performance metrics, the project investigates:
+This project explores the age at which female powerlifters tend to reach peak performance, using publicly available data from the [Open Powerlifting database](https://www.openpowerlifting.org/), donwloaded on 05/28/25. By analyzing both **DOTS** and **Total** as performance metrics, the project investigates:
 
 - What is the average and median age of top-performing female lifters?
 - How does the choice of metric (DOTS vs Total) impact perceived peak age?
@@ -45,6 +45,9 @@ Powerlifting is a sport where peak strength does not necessarily coincide with y
 - The **general population** of female lifters skews younger, with a median age around **27**.
 - **Tested lifters** in the top 1% tend to be slightly **younger** than untested counterparts.
 - The **choice of performance metric** (DOTS vs Total) affects who is seen as “elite” — and their average age.
+- We see untested women around the 40 age range with exceptionally high DOTS scores.
+- A few tested women have exceptionally high DOTS scores between the 40 and 50 age range.
+- Tested women reach higher totals around or nearing the 30 age range. 
 
 
 ---
